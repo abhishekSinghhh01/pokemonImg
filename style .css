@@ -1,0 +1,12 @@
+body{
+    position:absolute;
+    top:30%;
+    left:50%;
+    transform: translate(-30%,-50%);
+    background-color:rgb(240, 240, 232);
+}
+
+
+img{
+    height: 30vh;
+}
